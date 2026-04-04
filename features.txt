@@ -1,0 +1,2 @@
+This is a new feature which 
+will be committed to slave branch
